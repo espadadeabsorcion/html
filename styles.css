@@ -1,0 +1,75 @@
+body {
+
+    size: 100%;
+    size-adjust: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: black;
+    color: white;
+
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-image: linear-gradient(black, rgb(89, 89, 89));
+    color: white;
+    margin-block: 0px;
+}
+
+header {
+
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-image: linear-gradient(rgb(89, 89, 89), black 70%);
+    text-align: center;
+    color: white;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(157, 141, 24);
+    border-bottom-color: rgb(157, 141, 24);
+    border-top-width: thick;
+    border-bottom-width: thick;
+    margin-block: 0px;
+
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-image: linear-gradient(rgb(89, 89, 89),black 70%);
+    text-align: center;
+    color: white;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(157, 141, 24);
+    border-bottom-color: rgb(157, 141, 24);
+    border-top-width: thick;
+    border-bottom-width: thick;
+    margin-block: 0px;
+}
+
+.contenedor2 {
+
+    color: white;
+    text-align: center;
+    margin-block: 0px;
+}
+
+img {
+    border-radius: 60%;
+    width: 20%;
+    height: 20%;
+}
+
+.inicio {
+    font-size: x-large;
+}
+
+.logo {
+
+    border-radius: 10%;
+    width: 25%;
+    height: 25%;
+}
